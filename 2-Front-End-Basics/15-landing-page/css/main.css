@@ -13,7 +13,8 @@ body {
     font-family: "Roboto", sans-serif;
     width: 100%;
     min-height: 100vh;
-    overflow: hidden;
+    overflow: hidden; 
+    /* pra dizer o que acontece com o conteúdo que excede o tamanho do conteiner*/
 }
 
 header {
